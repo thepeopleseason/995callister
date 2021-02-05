@@ -1,21 +1,27 @@
 # 995 Callister
 
+## Cable/Internet
+
 To date, we have only used AT&T Uverse. Xfinity was not available when
 we moved in. Our neighbors have since installed Xfinity. They had to
 request xfinity business class so they could get hooked up, with the
 intent to cancel business class and switch to residential after a
 time.
 
+## Electrical
+
 If the bathrooms outlets are not working, the GFCI to reset it is in
 the main floor powder room.
 
-The shutoff valve for the hose bib in the front of the house is in the
+## Water
+
+* The shutoff valve for the hose bib in the front of the house is in the
 master bathroom under the right-side sink.
 
-The shutoff valve for the hose bib on the Southside of the house is
+* The shutoff valve for the hose bib on the Southside of the house is
 next to the water heater.
 
-The fireplace is a gas fireplace, but requires D cell batteries to
+* The fireplace is a gas fireplace, but requires D cell batteries to
 start. To change the batteries, lift the bottom metal face of the
 fireplace and pull out.
 
