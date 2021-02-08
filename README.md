@@ -52,11 +52,11 @@ ask for the lowest rate that they match.
 
 ### Alarm Zones
 
-2 Living
-3 Basement, Powder
-4 Dining
-5 Den/Stairs/Deck
-6 Motion Sensor
+2. Living
+3. Basement, Powder
+4. Dining
+5. Den/Stairs/Deck
+6. Motion Sensor
 
 ## Homeowners Association
 
