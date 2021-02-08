@@ -32,7 +32,6 @@ To program the garage entry pad:
 4. Press Learning button on Opener
 5. Enter PIN, then a number to test.
 
-
 ## Utilities
 
 * To date, we have only used AT&T Uverse. Xfinity was not available when
@@ -45,9 +44,19 @@ time.
 Gas Light or a number of other vendors, but Infinite Energy was nice
 to use because they match the lowest prices we found on the [Georgia
 Public Service Commission
-website](https://psc.ga.gov/utilities/natural-gas/marketers-pricing-index/).
+website](https://psc.ga.gov/utilities/natural-gas/marketers-pricing-index/). We
+pull that website up every year when we need to renew our rate, and
+ask for the lowest rate that they match.
 
 * Water Billing is through the Homeowners Association, billed quarterly (see the Homeowners Association section for informational links).
+
+### Alarm Zones
+
+2 Living
+3 Basement, Powder
+4 Dining
+5 Den/Stairs/Deck
+6 Motion Sensor
 
 ## Homeowners Association
 
