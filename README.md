@@ -23,6 +23,12 @@ fireplace and pull out.
 remover](https://smile.amazon.com/Folex-Carpet-Spot-Remover-32/dp/B001B0V5GG?sa-no-redirect=1)
 we've found for the carpet in the basement and second floor.
 
+* In addition to regular smoke detectors in each bedroom, there are
+three [smoke/carbon monoxide
+detectors](https://smile.amazon.com/gp/product/B07B8VGHJH/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)--one
+on each floor. These were installed in March of 2020, to replace the
+former smoke/CO detectors that had reached end of life.
+
 ### Programming the Garage Entry Pad
 
 To program the garage entry pad:
@@ -50,13 +56,19 @@ ask for the lowest rate that they match.
 
 * Water Billing is through the Homeowners Association, billed quarterly (see the Homeowners Association section for informational links).
 
-### Alarm Zones
+### Alarm
 
+The alarm is currently unmonitored. The list of alarm zones is as follows:
+
+1. Garage Door
 2. Living
 3. Basement, Powder
 4. Dining
 5. Den/Stairs/Deck
 6. Motion Sensor
+7. Front Door
+
+The front door alarm zone is via a battery-powered wireless transmitter. The battery was replaced last year, and it lasted a bit over seven years.
 
 ## Homeowners Association
 
