@@ -23,6 +23,16 @@ fireplace and pull out.
 remover](https://smile.amazon.com/Folex-Carpet-Spot-Remover-32/dp/B001B0V5GG?sa-no-redirect=1)
 we've found for the carpet in the basement and second floor.
 
+### Programming the Garage Entry Pad
+
+To program the garage entry pad:
+1. Press * and # keys until lights stop flashing
+2. Enter PIN
+3. Press 3
+4. Press Learning button on Opener
+5. Enter PIN, then a number to test.
+
+
 ## Utilities
 
 * To date, we have only used AT&T Uverse. Xfinity was not available when
@@ -47,3 +57,4 @@ You can find the relevant HOA docs in the [Mead Crossing HOA Google Drive](https
 * [HOA Covenants](https://drive.google.com/file/d/0B2RBs6e3zGfmald3MlVKbk1CSjA/view?usp=sharing)
 * [Amendments](https://drive.google.com/file/d/0B2RBs6e3zGfmWGktQm4wOHRhMU0/view?usp=sharing)
 * [Bylaws](https://drive.google.com/file/d/0B2RBs6e3zGfmRnMxSTFDYjlRR3M/view?usp=sharing)
+
