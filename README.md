@@ -29,6 +29,17 @@ detectors](https://smile.amazon.com/gp/product/B07B8VGHJH/ref=ppx_yo_dt_b_asin_t
 on each floor. These were installed in March of 2020, to replace the
 former smoke/CO detectors that had reached end of life.
 
+* There are several switches to control the kitchen can lights. One
+controls the five lights on the outside. One controls the single can
+light in the center. We installed the pendant lights on the same
+switch as the center light, and left an old lightbulb in the center
+can.
+
+* The tree in the front yard tends to bloom late. If you're worried
+that other trees in the neighborhood are getting full leaves and your
+tree might be dead, just wait a couple of weeks, and it will be full
+of leaves.
+
 ### Programming the Garage Entry Pad
 
 To program the garage entry pad:
