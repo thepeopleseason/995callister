@@ -69,15 +69,15 @@ ask for the lowest rate that they match.
 
 ### Alarm
 
-The alarm is currently unmonitored. The list of alarm zones is as follows:
+The list of alarm zones is as follows:
 
-1. Garage Door
-2. Living
-3. Basement, Powder
-4. Dining
-5. Den/Stairs/Deck
-6. Motion Sensor
-7. Front Door
+1. Garage entry door
+2. Living room windows
+3. Basement and powder room windows
+4. Dining room windows
+5. Den/Stairs/Deck windows
+6. Motion sensor located near front door
+7. Front door
 
 The front door alarm zone is via a battery-powered wireless transmitter. The battery was replaced last year, and it lasted a bit over seven years.
 
