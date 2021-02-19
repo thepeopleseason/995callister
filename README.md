@@ -33,7 +33,19 @@ former smoke/CO detectors that had reached end of life.
 controls the five lights on the outside. One controls the single can
 light in the center. We installed the pendant lights on the same
 switch as the center light, and left an old lightbulb in the center
-can.
+can. Note: I've included images in this repo for the two lights that
+appeared to be not working with a working bulb in them.
+
+### Programming the Garage Entry Pad
+
+To program the exterior garage entry pad:
+1. Press * and # keys until lights stop flashing
+2. Enter PIN
+3. Press 3
+4. Press Learning button on Opener
+5. Enter PIN, then a nonzero number to test.
+
+## Grounds
 
 * The tree in the front yard tends to bloom late. If you're worried
 that other trees in the neighborhood are getting full leaves and your
@@ -46,16 +58,7 @@ master bathroom areas, check to see if these trees have branches
 reaching to the roof line. If so, cut them back, because that's how
 the roaches are getting in.
 
-### Programming the Garage Entry Pad
-
-To program the exterior garage entry pad:
-1. Press * and # keys until lights stop flashing
-2. Enter PIN
-3. Press 3
-4. Press Learning button on Opener
-5. Enter PIN, then a nonzero number to test.
-
-## Landscaping
+### Landscaping
 
 We used [Horticultural Gardens](http://horticulturalgardens.net/) to
 update the northern side yard. They added the slab stairs and the
@@ -102,8 +105,9 @@ The list of alarm zones is as follows:
 7. Front door
 
 The front door alarm zone is via a battery-powered wireless
-transmitter. The battery was replaced last year, and it lasted a bit
-over seven years.
+transmitter. The coin battery was replaced last year, and it lasted a
+bit over seven years. Replacing the battery requires a plastic straw
+to re-insert the sensor into the door frame.
 
 ## Homeowners Association
 
