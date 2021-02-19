@@ -15,6 +15,13 @@ master bathroom under the right-side sink.
 * The shutoff valve for the hose bib on the Southside of the house is
 next to the water heater.
 
+* I adjusted the scald guard as requested, but if you desire a
+different setting, you'll want to pry the temperature control plate
+off of the faucet housing then use a philips-head screwdriver to
+remove the piece blocking the guard. Take a picture of the current
+setting before attempting to adjust the scald guard, so you know your
+starting point.
+
 * The fireplace is a gas fireplace, but requires D cell batteries to
 start. To change the batteries, lift the bottom metal face of the
 fireplace and pull out.
