@@ -1,4 +1,4 @@
-# Welcome to 995 Callister
+# Welcome to 995 Callister!
 
 We built this home in 2012, and in 2013, we brought home our dog and
 our son. We welcomed our daughter a few years later. We hope that this
@@ -40,14 +40,34 @@ that other trees in the neighborhood are getting full leaves and your
 tree might be dead, just wait a couple of weeks, and it will be full
 of leaves.
 
+* The two Christmas-like trees on each side of the house need
+occasional pruning. If you find roaches entering the house near the
+master bathroom areas, check to see if these trees have branches
+reaching to the roof line. If so, cut them back, because that's how
+the roaches are getting in.
+
 ### Programming the Garage Entry Pad
 
-To program the garage entry pad:
+To program the exterior garage entry pad:
 1. Press * and # keys until lights stop flashing
 2. Enter PIN
 3. Press 3
 4. Press Learning button on Opener
-5. Enter PIN, then a number to test.
+5. Enter PIN, then a nonzero number to test.
+
+## Landscaping
+
+We used [Horticultural Gardens](http://horticulturalgardens.net/) to
+update the northern side yard. They added the slab stairs and the
+slate chips, as well as directed the downspouts underground to French
+drains leading to the the two plastic grates next to the mailbox.
+
+We initially wanted to do the same treatment to both the North and
+South side, but we couldn't come to an agreement with our neighbors on
+the South. After the initial work, however, we realized that an
+increase in accessible space meant an increase in foot traffic and
+noise around the houses, so we were okay not landscaping the South
+side.
 
 ## Utilities
 
@@ -65,7 +85,9 @@ website](https://psc.ga.gov/utilities/natural-gas/marketers-pricing-index/). We
 pull that website up every year when we need to renew our rate, and
 ask for the lowest rate that they match.
 
-* Water Billing is through the Homeowners Association, billed quarterly (see the Homeowners Association section for informational links).
+* Water Billing is through the Homeowners Association, billed
+quarterly (see the Homeowners Association section for informational
+links).
 
 ### Alarm
 
@@ -79,11 +101,15 @@ The list of alarm zones is as follows:
 6. Motion sensor located near front door
 7. Front door
 
-The front door alarm zone is via a battery-powered wireless transmitter. The battery was replaced last year, and it lasted a bit over seven years.
+The front door alarm zone is via a battery-powered wireless
+transmitter. The battery was replaced last year, and it lasted a bit
+over seven years.
 
 ## Homeowners Association
 
-You can find the relevant HOA docs in the [Mead Crossing HOA Google Drive](https://drive.google.com/drive/folders/0B2RBs6e3zGfmNU5rV0FGTGlPdEU?usp=sharing). Of particular note:
+You can find the relevant HOA docs in the [Mead Crossing HOA Google
+Drive](https://drive.google.com/drive/folders/0B2RBs6e3zGfmNU5rV0FGTGlPdEU?usp=sharing). Of
+particular note:
 
 * [For New Homeowners](https://docs.google.com/document/d/1N4WAJtai1C2edoCfiRUwJBc-UL6cjAaIFkOywHh4d1k/edit?usp=sharing) -- A rundown of things you should know as new homeowners in Mead Crossing.
 * [HOA Covenants](https://drive.google.com/file/d/0B2RBs6e3zGfmald3MlVKbk1CSjA/view?usp=sharing)
