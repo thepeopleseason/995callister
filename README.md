@@ -6,8 +6,9 @@ house will be a wonderful home for you and your loved ones!
 
 ## Maintenance
 
-* If the bathrooms outlets are not working, the GFCI to reset it is in
-the main floor powder room.
+* If any bathroom outlet is not working, check the GFCI outlet in the
+main floor powder room. Try to reset the outlet and usually, the
+outlets in all bathrooms should go back to working.
 
 * The shutoff valve for the hose bib in the front of the house is in the
 master bathroom under the right-side sink.
@@ -34,7 +35,8 @@ we've found for the carpet in the basement and second floor.
 three [smoke/carbon monoxide
 detectors](https://smile.amazon.com/gp/product/B07B8VGHJH/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)--one
 on each floor. These were installed in March of 2020, to replace the
-former smoke/CO detectors that had reached end of life.
+former smoke/CO detectors that had reached end of life (lasting about
+8 years).
 
 * There are several switches to control the kitchen can lights. One
 controls the five lights on the outside. One controls the single can
