@@ -122,10 +122,11 @@ The list of alarm zones is as follows:
 6. Motion sensor located near front door
 7. Front door
 
-The front door alarm zone is via a battery-powered wireless
-transmitter. The coin battery was replaced last year, and it lasted a
-bit over seven years. Replacing the battery requires a plastic straw
-to re-insert the sensor into the door frame.
+The front door alarm zone is via a [battery-powered wireless
+transmitter](https://cdn.shopify.com/s/files/1/1659/9809/files/plunger_datasheet_hires.pdf?16841792121202968471). The
+coin battery (CR1620) was replaced last year, and the original battery
+lasted a bit over seven years. Replacing the battery requires a
+plastic straw to re-insert the sensor into the door frame.
 
 ## Homeowners Association
 
