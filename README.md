@@ -54,6 +54,10 @@ To program the exterior garage entry pad:
 4. Press Learning button on Opener
 5. Enter PIN, then a nonzero number to test.
 
+If you decide to change the garage door opener, [here's the the manual
+for the
+keypad](https://support.chamberlaingroup.com/s/article/Clicker-Model-KLIK2U-Wireless-Keyless-Entry-Owner-s-Manual-1484145607826) 
+
 ## Grounds
 
 * The tree in the front yard tends to bloom late. If you're worried
