@@ -45,6 +45,11 @@ switch as the center light, and left an old lightbulb in the center
 can. Note: I've included images in this repo for the two lights that
 appeared to be not working with a working bulb in them.
 
+* There's a door jamb security plate in the front door to make it hard
+for someone to just kick in the door. Because of the plate, locking
+the front door requires you to push from the inside/pull from the
+outside with a bit of force to get the bolt to securely lock.
+
 ### Programming the Garage Entry Pad
 
 To program the exterior garage entry pad:
