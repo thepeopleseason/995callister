@@ -50,6 +50,23 @@ for someone to just kick in the door. Because of the plate, locking
 the front door requires you to push from the inside/pull from the
 outside with a bit of force to get the bolt to securely lock.
 
+## Built-Ins
+
+* Behind the bottom drawer on the left side of the sun room desk (main
+floor), there is an electrical outlet. To access it, pull the drawer
+out until you see black plastic tabs on the slides. Push the tabs
+up/down depending on the side, and the drawer should be able to be
+pulled out so you can get to the outlet. Be careful when you're
+accessing the outlet--there are a few exposed nails near it.
+
+* There's another outlet in the bottom-most storage area in the large
+cabinet to the right of the desk.
+
+* In the basement, in addition to separate electrical outlets in the
+left-most and right-most cabinets, there is another behind the middle
+drawer under the bench seating. Follow the same procedure as above to
+access the outlet behind the drawer.
+
 ### Programming the Garage Entry Pad
 
 To program the exterior garage entry pad:
@@ -61,7 +78,7 @@ To program the exterior garage entry pad:
 
 If you decide to change the garage door opener, [here's the the manual
 for the
-keypad](https://support.chamberlaingroup.com/s/article/Clicker-Model-KLIK2U-Wireless-Keyless-Entry-Owner-s-Manual-1484145607826) 
+keypad](https://support.chamberlaingroup.com/s/article/Clicker-Model-KLIK2U-Wireless-Keyless-Entry-Owner-s-Manual-1484145607826)
 
 ## Grounds
 
