@@ -4,6 +4,84 @@ We built this home in 2012, and in 2013, we brought home our dog and
 our son. We welcomed our daughter a few years later. We hope that this
 house will be a wonderful home for you and your loved ones!
 
+## Setup
+
+### Alarm
+
+* To set your own user code for the alarm, hit `*5` then `01`. Update
+the existing code with your desired 4-digit code.
+
+* The list of alarm zones is as follows:
+
+1. Garage entry door
+2. Living room windows
+3. Basement and powder room windows
+4. Dining room windows
+5. Den/Stairs/Deck windows
+6. Motion sensor located near front door
+7. Front door
+
+* The front door alarm zone is via a [battery-powered wireless
+transmitter](https://cdn.shopify.com/s/files/1/1659/9809/files/plunger_datasheet_hires.pdf?16841792121202968471). The
+coin battery (CR1620) was replaced last year, and the original battery
+lasted a bit over seven years. Replacing the battery requires a
+plastic straw to re-insert the sensor into the door frame. We've left
+a spare battery in one of the drawers in the kitchen.
+
+### Programming the Garage Entry Pad
+
+To program the exterior garage entry pad:
+1. Press * and # keys until lights stop flashing
+2. Enter PIN
+3. Press 3
+4. Press Learning button on Opener
+5. Enter PIN, then a nonzero number to test.
+
+If you decide to change the garage door opener, [here's the the manual
+for the
+keypad](https://support.chamberlaingroup.com/s/article/Clicker-Model-KLIK2U-Wireless-Keyless-Entry-Owner-s-Manual-1484145607826)
+
+### Built-Ins
+
+* Behind the bottom drawer on the left side of the sun room desk (main
+floor), there is an electrical outlet. To access it, pull the drawer
+out until you see black plastic tabs on the slides. Push the tabs
+up/down depending on the side, and the drawer should be able to be
+pulled out so you can get to the outlet. Be careful when you're
+accessing the outlet--there are a few exposed nails near it.
+
+* There's another outlet in the bottom-most storage area in the large
+cabinet to the right of the desk.
+
+* In that same cabinet, top shelf, you'll find a set of drawer pulls,
+the outlet cover for the outlet behind the drawer (which does not fit
+any longer), and a bottle of lacquer paint for the built-ins. 
+
+* In the basement, in addition to separate electrical outlets in the
+left-most and right-most cabinets, there is another behind the middle
+drawer under the bench seating. Follow the same procedure as above to
+access the outlet behind the drawer.
+
+### Utilities
+
+* To date, we have only used AT&T Uverse. Xfinity was not available when
+we moved in. Our neighbors have since installed Xfinity. They had to
+request xfinity business class so they could get hooked up, with the
+intent to cancel business class and switch to residential after a
+time.
+
+* We use Infinite Energy for gas marketing--you could go with Atlanta
+Gas Light or a number of other vendors, but Infinite Energy was nice
+to use because they match the lowest prices we found on the [Georgia
+Public Service Commission
+website](https://psc.ga.gov/utilities/natural-gas/marketers-pricing-index/). We
+pull that website up every year when we need to renew our rate, and
+ask for the lowest rate that they match.
+
+* Water Billing is through the Homeowners Association, billed
+quarterly (see the Homeowners Association section for informational
+links).
+
 ## Maintenance
 
 * If any bathroom outlet is not working, check the GFCI outlet in the
@@ -50,36 +128,6 @@ for someone to just kick in the door. Because of the plate, locking
 the front door requires you to push from the inside/pull from the
 outside with a bit of force to get the bolt to securely lock.
 
-## Built-Ins
-
-* Behind the bottom drawer on the left side of the sun room desk (main
-floor), there is an electrical outlet. To access it, pull the drawer
-out until you see black plastic tabs on the slides. Push the tabs
-up/down depending on the side, and the drawer should be able to be
-pulled out so you can get to the outlet. Be careful when you're
-accessing the outlet--there are a few exposed nails near it.
-
-* There's another outlet in the bottom-most storage area in the large
-cabinet to the right of the desk.
-
-* In the basement, in addition to separate electrical outlets in the
-left-most and right-most cabinets, there is another behind the middle
-drawer under the bench seating. Follow the same procedure as above to
-access the outlet behind the drawer.
-
-### Programming the Garage Entry Pad
-
-To program the exterior garage entry pad:
-1. Press * and # keys until lights stop flashing
-2. Enter PIN
-3. Press 3
-4. Press Learning button on Opener
-5. Enter PIN, then a nonzero number to test.
-
-If you decide to change the garage door opener, [here's the the manual
-for the
-keypad](https://support.chamberlaingroup.com/s/article/Clicker-Model-KLIK2U-Wireless-Keyless-Entry-Owner-s-Manual-1484145607826)
-
 ## Grounds
 
 * The tree in the front yard tends to bloom late. If you're worried
@@ -106,44 +154,6 @@ the South. After the initial work, however, we realized that an
 increase in accessible space meant an increase in foot traffic and
 noise around the houses, so we were okay not landscaping the South
 side.
-
-## Utilities
-
-* To date, we have only used AT&T Uverse. Xfinity was not available when
-we moved in. Our neighbors have since installed Xfinity. They had to
-request xfinity business class so they could get hooked up, with the
-intent to cancel business class and switch to residential after a
-time.
-
-* We use Infinite Energy for gas marketing--you could go with Atlanta
-Gas Light or a number of other vendors, but Infinite Energy was nice
-to use because they match the lowest prices we found on the [Georgia
-Public Service Commission
-website](https://psc.ga.gov/utilities/natural-gas/marketers-pricing-index/). We
-pull that website up every year when we need to renew our rate, and
-ask for the lowest rate that they match.
-
-* Water Billing is through the Homeowners Association, billed
-quarterly (see the Homeowners Association section for informational
-links).
-
-### Alarm
-
-The list of alarm zones is as follows:
-
-1. Garage entry door
-2. Living room windows
-3. Basement and powder room windows
-4. Dining room windows
-5. Den/Stairs/Deck windows
-6. Motion sensor located near front door
-7. Front door
-
-The front door alarm zone is via a [battery-powered wireless
-transmitter](https://cdn.shopify.com/s/files/1/1659/9809/files/plunger_datasheet_hires.pdf?16841792121202968471). The
-coin battery (CR1620) was replaced last year, and the original battery
-lasted a bit over seven years. Replacing the battery requires a
-plastic straw to re-insert the sensor into the door frame.
 
 ## Homeowners Association
 
