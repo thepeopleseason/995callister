@@ -9,7 +9,8 @@ house will be a wonderful home for you and your loved ones!
 ### Alarm
 
 * To set your own user code for the alarm, hit `*5` then `01`. Update
-the existing code with your desired 4-digit code.
+the existing code with your desired 4-digit code. I've set the code to
+the month and day of our closing.
 
 * The list of alarm zones is as follows:
 
