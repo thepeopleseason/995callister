@@ -9,8 +9,8 @@ house will be a wonderful home for you and your loved ones!
 ### Alarm
 
 * To set your own user code for the alarm, hit `*5` then `01`. Update
-the existing code with your desired 4-digit code. I've set the code to
-the month and day of our closing.
+the existing code with your desired 4-digit code. **I've set the code to
+the month and day of our closing**.
 
 * The list of alarm zones is as follows:
 
@@ -31,7 +31,10 @@ a spare battery in one of the drawers in the kitchen.
 
 ### Programming the Garage Entry Pad
 
-To program the exterior garage entry pad:
+To program the exterior garage entry pad, you'll want to unmount the
+entry pad from the side of the garage and bring it with you to the
+main opener unit.
+
 1. Press * and # keys until lights stop flashing
 2. Enter PIN
 3. Press 3
@@ -128,6 +131,13 @@ appeared to be not working with a working bulb in them.
 for someone to just kick in the door. Because of the plate, locking
 the front door requires you to push from the inside/pull from the
 outside with a bit of force to get the bolt to securely lock.
+
+* Because of the amount of sun exposure the front door gets, you might
+find it becoming more and more difficult to insert your key into the
+lock. Wiggling the key vertically helps for a bit, but ultimately,
+you'll want to get a tube of [graphite
+lubricant](https://www.homedepot.com/p/Hillman-3-g-Powdered-Graphite-Lubricant-703185/100137063)
+to keep the lock easier to use.
 
 ## Grounds
 
