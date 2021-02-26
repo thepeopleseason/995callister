@@ -29,6 +29,11 @@ lasted a bit over seven years. Replacing the battery requires a
 plastic straw to re-insert the sensor into the door frame. We've left
 a spare battery in one of the drawers in the kitchen.
 
+Here are some useful videos on how to use the system:
+* https://www.youtube.com/watch?v=xEVwMlYSBhU
+* https://www.youtube.com/watch?v=rubQKJmb9FA
+* https://www.youtube.com/watch?v=ezV7INi8ReI
+
 ### Programming the Garage Entry Pad
 
 To program the exterior garage entry pad, you'll want to unmount the
@@ -57,9 +62,11 @@ accessing the outlet--there are a few exposed nails near it.
 * There's another outlet in the bottom-most storage area in the large
 cabinet to the right of the desk.
 
-* In that same cabinet, top shelf, you'll find a set of drawer pulls,
-the outlet cover for the outlet behind the drawer (which does not fit
-any longer), and a bottle of lacquer paint for the built-ins. 
+* In that same cabinet, top shelf, you'll find a set of drawer pulls
+and the outlet cover for the outlet behind the drawer (which does not
+fit any longer). Note: this previously indicated that there was a
+bottle of lacquer paint in the cabinet, but Laura threw it out because
+it looked, "like old nail polish, even after I shook it."
 
 * In the basement, in addition to separate electrical outlets in the
 left-most and right-most cabinets, there is another behind the middle
